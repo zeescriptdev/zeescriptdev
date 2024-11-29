@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan1212&show_icons=true&locale=en" alt="zeeshan1212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1212&" alt="zeeshan1212" /></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://github.com/zeeshan1212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-zeeshan-ansari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/Zeeshanshadow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
