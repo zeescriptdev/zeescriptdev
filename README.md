@@ -57,10 +57,10 @@
 
 ## 📫 Get In Touch
 
-- 📧 **Email:** [zeeshan111100@gmail.com](mailto:zeeshan111100@gmail.com)
+- 📧 **Email:** [zeescriptdev@gmail.com](mailto:zeescriptdev@gmail.com)
 - 💼 **LinkedIn:** [Mohammad Zeeshan Ansari](https://www.linkedin.com/in/mohammad-zeeshan-ansari/)
 - 🐦 **Twitter:** [@Zeeshanshadow](https://x.com/Zeeshanshadow)
-- �� **GitHub:** [@zeeshan1212](https://github.com/zeeshan1212)
+- �� **GitHub:** [@zeescriptdev](https://github.com/zeescriptdev)
 
 ## ⚡ Fun Fact
 > *"Personally introvert, Technically extrovert"* - I may be quiet in person, but my code speaks volumes! 🎭💻
@@ -152,13 +152,13 @@
   <a href="https://www.linkedin.com/in/mohammad-zeeshan-ansari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/zeeshan1212">
+  <a href="https://github.com/zeescriptdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/Zeeshanshadow">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:zeeshan111100@gmail.com">
+  <a href="mailto:zeescriptdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
