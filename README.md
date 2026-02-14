@@ -61,6 +61,7 @@
 - 💼 **LinkedIn:** [Mohammad Zeeshan Ansari](https://www.linkedin.com/in/mohammad-zeeshan-ansari/)
 - 🐦 **Twitter:** [@Zeeshanshadow](https://x.com/Zeeshanshadow)
 - �� **GitHub:** [@zeescriptdev](https://github.com/zeescriptdev)
+- YT **Youtube** [Youtube Channel](https://www.youtube.com/@zeescriptdev)
 
 ## ⚡ Fun Fact
 > *"Personally introvert, Technically extrovert"* - I may be quiet in person, but my code speaks volumes! 🎭💻
