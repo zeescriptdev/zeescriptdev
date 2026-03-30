@@ -105,43 +105,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan1212&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan1212&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1212&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Achievements & Stats
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-    <div style="text-align: center; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; min-width: 120px;">
-      <h4 style="margin: 0; color: white;">🌟 Stars</h4>
-      <p style="margin: 5px 0; color: white; font-size: 18px; font-weight: bold;">0</p>
-    </div>
-    <div style="text-align: center; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; min-width: 120px;">
-      <h4 style="margin: 0; color: white;">📝 Commits</h4>
-      <p style="margin: 5px 0; color: white; font-size: 18px; font-weight: bold;">9</p>
-    </div>
-    <div style="text-align: center; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 10px; min-width: 120px;">
-      <h4 style="margin: 0; color: white;">🔀 PRs</h4>
-      <p style="margin: 5px 0; color: white; font-size: 18px; font-weight: bold;">40</p>
-    </div>
-    <div style="text-align: center; padding: 15px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 10px; min-width: 120px;">
-      <h4 style="margin: 0; color: white;">🐛 Issues</h4>
-      <p style="margin: 5px 0; color: white; font-size: 18px; font-weight: bold;">2</p>
-    </div>
-  </div>
-  
-  <p><em>🎯 Your GitHub activity highlights! 📊</em></p>
-</div>
+<p align="center">
+<a href="https://github.com/vishalmajumdar95">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeescriptdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeescriptdev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ---
 
